@@ -1,0 +1,3 @@
+Este codigo es propiedad de zashj
+
+donde estamos creando un sistema para encriptar / desencriptar fraces asi como copiarlas ...
